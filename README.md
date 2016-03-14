@@ -1,4 +1,4 @@
 # try
-mari belajar ! by refika
+mari belajar eksperimen!
 
 GIT BASIC
