@@ -1,4 +1,4 @@
 # try
-mari belajar !
+mari belajar eksperimen!
 
 GIT BASIC
